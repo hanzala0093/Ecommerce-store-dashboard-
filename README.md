@@ -28,4 +28,17 @@ A Power BI dashboard was developed to provide:
 - 🔍 Advanced customer behavior analytics.
 - ⏳ Real-time data integration for dynamic reporting.
 
+## 🖼️ Dashboard Preview
 
+Below are snapshots of the Power BI dashboard:
+
+1. **Home Page** 🏠
+   ![Home Page](images/home_page.png)
+
+2. **Sales Analysis Page** 📊
+   ![Sales Analysis](images/sales_analysis.png)
+
+3. **Customer Insights Page** 👥
+   ![Customer Insights](images/customer_insights.png)
+
+📂 This repository contains the Power BI report file, dataset, and documentation for implementation.
