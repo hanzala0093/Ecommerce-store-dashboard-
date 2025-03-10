@@ -33,12 +33,13 @@ A Power BI dashboard was developed to provide:
 Below are snapshots of the Power BI dashboard:
 
 1. **Home Page** 🏠
-   ![Home Page](images/home_page.png)
+   ![Image](https://github.com/user-attachments/assets/81587174-afe7-452e-ab9d-3747e2718719)
 
 2. **Sales Analysis Page** 📊
-   ![Sales Analysis](images/sales_analysis.png)
+![Image](https://github.com/user-attachments/assets/05071444-c64b-4413-bb9f-5e75fd3dfc19)
 
 3. **Customer Insights Page** 👥
-   ![Customer Insights](images/customer_insights.png)
+   ![Image](https://github.com/user-attachments/assets/51e69915-823f-4fcf-bd6c-90a70593b78f)
 
 📂 This repository contains the Power BI report file, dataset, and documentation for implementation.
+
